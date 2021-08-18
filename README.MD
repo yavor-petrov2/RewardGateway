@@ -11,5 +11,6 @@ Initially the plan was to load the API data with AJAX request so there is 2<sup>
 
 ## Instalation
 - Clone the project
+- Create .env.local file and add the DATABASE_URL parameter with correct DB setup
 - composer install
 - php bin/console server:run 
