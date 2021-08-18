@@ -1,0 +1,31 @@
+#apiData {
+    text-align: center;
+}
+#apiData h1 {
+    margin: 20px 0 40px;
+}
+
+#apiData .person {
+    margin-bottom: 40px;
+    font-size: 12px;
+}
+
+#apiData .person .avatar {
+    background-position: center center;
+    background-size: contain;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+#apiData .person .name {
+    font-weight: bold;
+    font-size: 14px;
+    margin: 10px 0;
+}
+
+#apiData .person .company {
+    font-weight: 500;
+    margin-top: 10px;
+}

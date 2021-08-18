@@ -1,0 +1,7 @@
+homepage:
+  path: /
+  controller: App\Controller\HomeController::index
+
+#ajax_fetch_api_data:
+#  path: /ajax/fetch-api-data
+#  controller: App\Controller\HomeController::fetchAPIData
